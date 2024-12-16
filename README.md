@@ -1,4 +1,4 @@
 # FacRec
-its not documented properly.
+sory, the repo isnt documented properly:).
 
-outputs are in `fr_var.ipynb`
+You can find all the outputs in the fr_var.ipynb notebook.
